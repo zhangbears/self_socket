@@ -1,2 +1,2 @@
 # self_socket
-socket prictise
+socket practice
